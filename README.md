@@ -1,2 +1,2 @@
-# deep_learning_p3
-Deep Learning Nanodegree - Project 3
+# Project 3 - RNN
+Use a RNN to generate TV scripts for The Simpsons
