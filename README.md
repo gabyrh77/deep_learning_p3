@@ -1,5 +1,5 @@
 # Project 3 - RNN
-Use a RNN to generate TV scripts for The Simpsons
+Build a RNN to generate TV scripts for The Simpsons
 
 ### Create the environment
 
